@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "252373712345",
+    "firebase_url": "https://obong-c0860.firebaseio.com",
+    "project_id": "obong-c0860",
+    "storage_bucket": "obong-c0860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252373712345:android:6e241970ca92c18c",
+        "android_client_info": {
+          "package_name": "com.yeonju.obong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252373712345-ifo90eqskjj3r38ndk9ndlcoalvl5ceb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk2TWK4K4jYKVEO-YW5wR9QSpcgue4OBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
